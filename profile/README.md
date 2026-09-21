@@ -1,6 +1,6 @@
 # Forgeplane
 
-Forgeplane is an open-source infrastructure orchestration project focused on making infrastructure work clearer, safer, and easier to manage.
+Forgeplane is a infrastructure orchestration project focused on making infrastructure work clearer, safer, and easier to manage.
 
 It is built for teams that want better visibility into change, better control over deployments, and a more confident way to operate infrastructure with the tools they already use.
 
